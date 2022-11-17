@@ -1,6 +1,6 @@
 - 👋 Oe que se dice, soy Mousak
 - 👀 Me gusta mucho escuchar musica y programar
-- 🌱 I’m currently learning
+- 🌱 Estudio Programacion 24/7
 - 💞️ Me gustaria en la programacion Trabajar en Google y en la musica con la disquera REAL HASTA LA MUERTE
 - 📫 Correo: coterocarranza@gmail.com
 
