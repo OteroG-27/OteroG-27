@@ -51,6 +51,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OteroG-27&theme=react&hide_border=&locale=es)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OteroG-27&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OteroG-27&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
