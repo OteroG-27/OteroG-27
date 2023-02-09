@@ -1,71 +1,55 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
     <h1 align="center">Hola 👋, Soy Carlos</h1>
-    <h3 align="center">Poseo conocimientos en desarrollo de aplicaciones web. Usando
-diferentes tecnologías como: Html5, Bootstrap, Css, Flexbox, JavaScript,
-WordPress, Php con base de datos en MySQL tambien tengo cualidades
-de autodidacta para el aprendizaje de nuevas tecnologías.
-Me considero una persona con la destreza para trabajar bajo presión,
-proactivo, creativo, con la capacidad para entender conceptos muy
-abstractos y resolver problemas o situaciones que se propicien en
-cualquier situación.
-</h3>
+    <h3 align="center">Un apasionado desarrollador web fullstack de Colombia. 
+        Poseo conocimientos en desarrollo de aplicaciones web. Usando
+        diferentes tecnologías como: Html5, Bootstrap, Css, Flexbox, JavaScript,
+        WordPress, Php con base de datos en MySQL tambien tengo cualidades
+        de autodidacta para el aprendizaje de nuevas tecnologías.
+    </h3>
 </div>
 
-
-<div id="badges" align="center">
-    <a href="http://twitch.com/youdevs" target="_blank">
-        <img src="https://img.shields.io/twitch/status/youdevs?color=purple&logo=twitch&style=for-the-badge"
-            alt="Twitch Badge" />
-    </a>
-    <a href="https://www.youtube.com/youdevs" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UC4hHrYhWMy-iN29_3bJ7zfA?label=suscriptores&logo=youtube&style=for-the-badge"
-            alt="Youtube Badge" />
-    </a>
-    <a href="https://twitter.com/CarlosYouDevs" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
-            alt="Twitter Badge" />
-    </a>
-</div>
 
 ---
 
 ### 👨‍💻 About Me :
 
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
+- 👍 Me gusta mucho escuchar musica y programar
 
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
+- 🌱 Actualmente estoy aprendiendo **React.js**
 
-- 📫 How to reach me **carlos.develops@gmail.com**
+- 💬 Programo las 24/7
 
-- 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
+- 📫 Como contactarme: **coterocarranza@gmail.com**
 
-- 🌐 Website [youdevs.com](youdevs.com)
+
+
 
 
 <div align="left">
-    <h3>🔨 Languages and Tools:</h3>
+    <h3>🔨 Acerca de mí :</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="Jquery" **alt="Jquery" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" **alt="PHP" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master//icons/wordpress/wordpress-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <!--<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="" **alt="Git" width="40" height="40"/>-->
+        <!--<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Git" width="40" height="40"/>-->
       </div>
 </div>
 
 ---
 
-### 📊 My Stats :
+### 📊 Mis estadísticas :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OteroG-27&theme=react&hide_border=&locale=es)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
 
