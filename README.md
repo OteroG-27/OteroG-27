@@ -45,7 +45,7 @@
 
 ### 📊 Mis estadísticas :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OteroG-27&theme=react&hide_border=true&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OteroG-2&theme=react&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OteroG-27&show_icons=true&theme=react&hide_border=true)
 
