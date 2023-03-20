@@ -16,7 +16,7 @@
 
 - 👍 Me gusta mucho escuchar musica y programar
 
-- 🌱 Actualmente estoy aprendiendo **Go y React**
+- 🌱 Actualmente estoy aprendiendo **Go y React.js**
 
 - 💬 Programo las 24/7
 
