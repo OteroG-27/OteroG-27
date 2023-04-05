@@ -3,7 +3,7 @@
     <h1 align="center">Hola 👋, Soy Carlos</h1>
     <h3 align="center">Un apasionado desarrollador web fullstack de Colombia. 
         Poseo conocimientos en desarrollo de aplicaciones web. Usando
-        diferentes tecnologías como: Html5, Css, JavaScript,
+        diferentes tecnologías como: , Css, JavaScript,
         Php con base de datos en MySQL tambien tengo cualidades
         de autodidacta para el aprendizaje de nuevas tecnologías.
     </h3>
