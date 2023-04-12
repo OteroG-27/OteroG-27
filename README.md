@@ -5,7 +5,7 @@
         Poseo conocimientos en desarrollo de aplicaciones web. Usando
         diferentes tecnologías como: Html5, Css, JavaScript,
         Php con base de datos en MySQL tambien tengo cualidades
-        de autodidacta para el aprendizaje de nuevas tecnologías.
+        
     </h3>
 </div>
 
