@@ -1,4 +1,4 @@
-
+<div id="header" align="center">
     <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200" />
     <h1 align="center">Hola 👋, Soy Carlos</h1>
     <h3 align="center">Un apasionado desarrollador web fullstack de Colombia. 
