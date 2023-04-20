@@ -50,4 +50,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OteroG-27&show_icons=true&theme=react&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OteroG-27&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
